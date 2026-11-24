@@ -1,0 +1,8 @@
+# ---- Large data files: keep out of git ----
+0.Data/
+
+# ---- Jupyter auto-saved checkpoints ----
+.ipynb_checkpoints/
+
+# ---- Full-history backup bundles ----
+*.bundle
